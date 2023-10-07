@@ -17,4 +17,4 @@ social: true # includes social icons at the bottom of the page
 
 Welcome! My name is Kyle Montgomery, and I graduate student in computer science at Washington University in St. Louis. I will graduate in May, 2024. Broadly speaking, my interests include software developement, machine learning, and rock climbing 🧗. I am also a member of WASHU's NLP group, advised by Prof. Chenguang Wang.
 
-My research is on Large Language Models. Specifically, I'm interested in language agents, prompting, saftey, and applications.
+My research mostly focuses on large language models. Specifically, I'm working on projects related to language agents, prompting, saftey, and various applications of LLMs.
