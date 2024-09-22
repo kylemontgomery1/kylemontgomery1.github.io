@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS+MATH @ WUSTL
+subtitle: CS @ WASHU
 
 profile:
   align: left
@@ -15,6 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! My name is Kyle Montgomery, and I graduate student in computer science at Washington University in St. Louis. I will graduate in May, 2024. Broadly speaking, my interests include software developement, machine learning, and rock climbing 🧗. I am also a member of WASHU's NLP group, advised by Prof. Chenguang Wang.
+I am a first-year PhD student studying computer science at Washington University in St. Louis, advised by [Chenguang Wang](https://cgraywang.github.io/). I am affiliated with WASHU's [NLP group](https://nlp.wustl.edu/). Previously, I completed my Bachelor's degree in Computer Science and Mathematics, as well as a Master's degree in Computer Science, both at Washington University in St. Louis. 
 
-My research mostly focuses on large language models. Specifically, I'm working on projects related to language agents, prompting, saftey, and various applications of LLMs.
+My research interests include deep learning, large language models, and their applications in scientific domains. Currently, I'm working to improve the accuracy and efficiency of language models, especially on long contexts. When not engaging in research, I'm frequently rock climbing 🧗.
