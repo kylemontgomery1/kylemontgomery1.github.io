@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Kyle Montgomery # the website title (if blank, full name will be used instead)
 first_name: Kyle
 middle_name:
 last_name: Montgomery
@@ -67,7 +67,7 @@ github_username: kylemontgomery1
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: kyle-montgomery-
-scholar_userid: # your Google Scholar ID
+scholar_userid: O8tnCagAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -224,8 +224,8 @@ display_tags: ["formatting", "images", "links", "math", "code"] # this tags will
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Montgomery]
+  first_name: [Kyle]
 
   style: apa
   locale: en
@@ -267,7 +267,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 5 # leave blank to always show all authors
+max_author_limit: 8 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # -----------------------------------------------------------------------------
